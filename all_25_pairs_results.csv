@@ -1,0 +1,101 @@
+Pair_ID,Distance_Group,Start,Goal,Algorithm,Route_Found,Stops,Edges,Distance_km,Nodes_Expanded,Time_ms
+1,Very Short,E. Watauga & Welbourne,E. Unaka - Btwn 2 Churches,BFS,True,29,28,7.031266200336201,226,0.23617249999574597
+1,Very Short,E. Watauga & Welbourne,E. Unaka - Btwn 2 Churches,UCS,True,29,28,7.031266200336201,39,0.056892499998184576
+1,Very Short,E. Watauga & Welbourne,E. Unaka - Btwn 2 Churches,Greedy,True,29,28,7.124268654377338,30,0.11484649999715657
+1,Very Short,E. Watauga & Welbourne,E. Unaka - Btwn 2 Churches,A*,True,29,28,7.031266200336201,30,0.12176249998674393
+2,Very Short,Bldg 178 - Stanton-Gerber Hall,Lamont & Winter,BFS,True,13,12,3.43686129192194,39,0.0431500000104279
+2,Very Short,Bldg 178 - Stanton-Gerber Hall,Lamont & Winter,UCS,True,13,12,3.43686129192194,28,0.0484610000057728
+2,Very Short,Bldg 178 - Stanton-Gerber Hall,Lamont & Winter,Greedy,True,13,12,3.43686129192194,13,0.06482199998458782
+2,Very Short,Bldg 178 - Stanton-Gerber Hall,Lamont & Winter,A*,True,13,12,3.43686129192194,13,0.06953499999440282
+3,Very Short,The Mall - Upper Level,John Exum & Greenway,BFS,True,24,23,5.766435496412719,161,0.16647199998942597
+3,Very Short,The Mall - Upper Level,John Exum & Greenway,UCS,True,24,23,5.766435496412719,85,0.1495004999867433
+3,Very Short,The Mall - Upper Level,John Exum & Greenway,Greedy,True,25,24,5.7664550714984,53,0.2274274999933823
+3,Very Short,The Mall - Upper Level,John Exum & Greenway,A*,True,24,23,5.766435496412719,46,0.20997699999725228
+4,Very Short,W. Watauga - Univ Edge Apts,S. Boone & Lamont,BFS,True,4,3,1.1988399708885389,8,0.010752500003263776
+4,Very Short,W. Watauga - Univ Edge Apts,S. Boone & Lamont,UCS,True,4,3,1.1988399708885389,5,0.011567999990802491
+4,Very Short,W. Watauga - Univ Edge Apts,S. Boone & Lamont,Greedy,True,4,3,1.1988399708885389,4,0.032067999995888385
+4,Very Short,W. Watauga - Univ Edge Apts,S. Boone & Lamont,A*,True,4,3,1.1988399708885389,4,0.03388500002188266
+5,Very Short,E. Maple & Grover,N. Boone & W. Unaka,BFS,True,29,28,8.666975745498336,42,0.04454450001389887
+5,Very Short,E. Maple & Grover,N. Boone & W. Unaka,UCS,True,29,28,8.666975745498336,34,0.049770499998658124
+5,Very Short,E. Maple & Grover,N. Boone & W. Unaka,Greedy,True,29,28,8.666975745498336,29,0.1157315000170911
+5,Very Short,E. Maple & Grover,N. Boone & W. Unaka,A*,True,29,28,8.666975745498336,29,0.12223199999539247
+6,Short,E. Watauga & Welbourne,Broyles & Princeton,BFS,True,29,28,25.371799781876778,231,0.23079250001956098
+6,Short,E. Watauga & Welbourne,Broyles & Princeton,UCS,True,53,52,13.645484705660996,217,0.4008404999922277
+6,Short,E. Watauga & Welbourne,Broyles & Princeton,Greedy,True,46,45,25.21076966571078,107,0.4560559999617908
+6,Short,E. Watauga & Welbourne,Broyles & Princeton,A*,True,53,52,13.645484705660996,93,0.40317099998787853
+7,Short,W. Watauga - Univ Edge Apts,Briarcliff,BFS,True,49,48,18.28136806680412,266,0.28831400001649854
+7,Short,W. Watauga - Univ Edge Apts,Briarcliff,UCS,True,49,48,18.28136806680412,244,0.4448329999888756
+7,Short,W. Watauga - Univ Edge Apts,Briarcliff,Greedy,True,50,49,18.28145463047897,107,0.4542865000018992
+7,Short,W. Watauga - Univ Edge Apts,Briarcliff,A*,True,49,48,18.28136806680412,156,0.6717305000165652
+8,Short,Timberlake & Bristol Hwy,E. Oakland - Morris Baker,BFS,True,45,44,19.483341605627807,310,0.34233949997997115
+8,Short,Timberlake & Bristol Hwy,E. Oakland - Morris Baker,UCS,True,45,44,19.483341605627807,296,0.5356485000049815
+8,Short,Timberlake & Bristol Hwy,E. Oakland - Morris Baker,Greedy,True,45,44,19.483341605627807,109,0.46644849999211146
+8,Short,Timberlake & Bristol Hwy,E. Oakland - Morris Baker,A*,True,45,44,19.483341605627807,126,0.5452890000015032
+9,Short,S. Roan & E. Maple,Bldg 53 - Post Office,BFS,True,45,44,12.53768269505263,255,0.2767999999946369
+9,Short,S. Roan & E. Maple,Bldg 53 - Post Office,UCS,True,45,44,12.53768269505263,175,0.3156634999754715
+9,Short,S. Roan & E. Maple,Bldg 53 - Post Office,Greedy,True,45,44,12.53768269505263,77,0.33906449999676624
+9,Short,S. Roan & E. Maple,Bldg 53 - Post Office,A*,True,45,44,12.53768269505263,105,0.4923465000103988
+10,Short,Bristol Hwy - Big Valley Park,E. Oakland - Morris Baker,BFS,True,48,47,21.300996770069162,310,0.3444900000033613
+10,Short,Bristol Hwy - Big Valley Park,E. Oakland - Morris Baker,UCS,True,48,47,21.300996770069162,299,0.5443170000205555
+10,Short,Bristol Hwy - Big Valley Park,E. Oakland - Morris Baker,Greedy,True,48,47,21.300996770069162,109,0.4827164999881006
+10,Short,Bristol Hwy - Big Valley Park,E. Oakland - Morris Baker,A*,True,48,47,21.300996770069162,129,0.5603685000039604
+11,Medium,E. Watauga & Elm - Blankenship Pharm,W. Mkt - Boys & Girls Club,BFS,True,65,64,20.802245156133196,365,0.4343085000186875
+11,Medium,E. Watauga & Elm - Blankenship Pharm,W. Mkt - Boys & Girls Club,UCS,True,65,64,20.802245156133196,367,0.7086979999826326
+11,Medium,E. Watauga & Elm - Blankenship Pharm,W. Mkt - Boys & Girls Club,Greedy,True,65,64,20.895247610174337,242,1.0837295000385438
+11,Medium,E. Watauga & Elm - Blankenship Pharm,W. Mkt - Boys & Girls Club,A*,True,65,64,20.802245156133196,297,1.3211660000251868
+12,Medium,Garden & John Exum,E. Lakeview - St Mary's Church,BFS,True,16,15,6.185466814846217,44,0.04151500002080866
+12,Medium,Garden & John Exum,E. Lakeview - St Mary's Church,UCS,True,16,15,6.185466814846217,32,0.046070999985659
+12,Medium,Garden & John Exum,E. Lakeview - St Mary's Church,Greedy,True,16,15,6.185466814846217,18,0.06425949996469171
+12,Medium,Garden & John Exum,E. Lakeview - St Mary's Church,A*,True,16,15,6.185466814846217,19,0.0753304999818738
+13,Medium,Princeton & E. Oakland,John Exum & Greenway,BFS,True,35,34,10.259282647094317,179,0.18763299999591254
+13,Medium,Princeton & E. Oakland,John Exum & Greenway,UCS,True,35,34,10.259282647094317,103,0.17458549999105344
+13,Medium,Princeton & E. Oakland,John Exum & Greenway,Greedy,True,35,34,10.259282647094317,63,0.27734800002576776
+13,Medium,Princeton & E. Oakland,John Exum & Greenway,A*,True,35,34,10.259282647094317,64,0.27470449998645563
+14,Medium,E. Maple & Alabama,Knob Crk & Morningside,BFS,True,31,30,9.75799665037959,90,0.09743350000235296
+14,Medium,E. Maple & Alabama,Knob Crk & Morningside,UCS,True,31,30,9.75799665037959,93,0.15618600002653693
+14,Medium,E. Maple & Alabama,Knob Crk & Morningside,Greedy,True,31,30,9.75799665037959,31,0.12692400002833892
+14,Medium,E. Maple & Alabama,Knob Crk & Morningside,A*,True,31,30,9.75799665037959,35,0.15440849998071826
+15,Medium,KING SPRINGS - KINGSTON APTS,The Harbor Apartments,BFS,True,31,30,8.93666660752959,169,0.18232849998867096
+15,Medium,KING SPRINGS - KINGSTON APTS,The Harbor Apartments,UCS,True,31,30,8.93666660752959,182,0.33041900002217517
+15,Medium,KING SPRINGS - KINGSTON APTS,The Harbor Apartments,Greedy,True,36,35,11.16310340492962,50,0.23531850001745624
+15,Medium,KING SPRINGS - KINGSTON APTS,The Harbor Apartments,A*,True,31,30,8.93666660752959,113,0.5244705000109207
+16,Long,E. Watauga & New,S. North & First,BFS,True,50,49,13.620960068379295,232,0.25410200001374506
+16,Long,E. Watauga & New,S. North & First,UCS,True,50,49,13.620960068379295,210,0.38742199998864635
+16,Long,E. Watauga & New,S. North & First,Greedy,True,50,49,13.713962522420433,133,0.6173204999981863
+16,Long,E. Watauga & New,S. North & First,A*,True,50,49,13.620960068379295,103,0.4804554999964239
+17,Long,W. Walnut & Alta Tree,Sundale & North Hills,BFS,True,19,18,9.766143427584922,96,0.10969650000447473
+17,Long,W. Walnut & Alta Tree,Sundale & North Hills,UCS,True,19,18,9.766143427584922,142,0.27038449999849945
+17,Long,W. Walnut & Alta Tree,Sundale & North Hills,Greedy,True,19,18,9.766143427584922,53,0.2416349999805334
+17,Long,W. Walnut & Alta Tree,Sundale & North Hills,A*,True,19,18,9.766143427584922,55,0.24689449998049895
+18,Long,E. Oakland - Morris Baker,E. Maple & Afton,BFS,True,25,24,8.466520682928529,55,0.057541500012803226
+18,Long,E. Oakland - Morris Baker,E. Maple & Afton,UCS,True,25,24,8.466520682928529,61,0.09545649999154193
+18,Long,E. Oakland - Morris Baker,E. Maple & Afton,Greedy,True,25,24,8.466520682928529,25,0.10875200001692065
+18,Long,E. Oakland - Morris Baker,E. Maple & Afton,A*,True,25,24,8.466520682928529,34,0.13998549999882925
+19,Long,Broadway & St. Louis,Bldg 2 - College of Med,BFS,True,21,20,4.8320244779048585,139,0.14075699999693825
+19,Long,Broadway & St. Louis,Bldg 2 - College of Med,UCS,True,21,20,4.8320244779048585,84,0.1409165000154644
+19,Long,Broadway & St. Louis,Bldg 2 - College of Med,Greedy,True,21,20,4.8320244779048585,55,0.2411774999870886
+19,Long,Broadway & St. Louis,Bldg 2 - College of Med,A*,True,21,20,4.8320244779048585,27,0.1197410000202126
+20,Long,E. Oakland & Austin Springs,Bldg 7 - College of Pharmacy,BFS,True,36,35,10.648405928393421,221,0.2298219999943285
+20,Long,E. Oakland & Austin Springs,Bldg 7 - College of Pharmacy,UCS,True,36,35,10.648405928393421,128,0.218915499999639
+20,Long,E. Oakland & Austin Springs,Bldg 7 - College of Pharmacy,Greedy,True,36,35,10.648405928393421,70,0.3227674999948249
+20,Long,E. Oakland & Austin Springs,Bldg 7 - College of Pharmacy,A*,True,36,35,10.648405928393421,57,0.25832849996731966
+21,Very Long,E. Fairview & Mercury,W. Walnut & Dresden,BFS,True,53,52,15.54967368323123,352,0.4168710000271858
+21,Very Long,E. Fairview & Mercury,W. Walnut & Dresden,UCS,True,53,52,15.54967368323123,325,0.3359224999996968
+21,Very Long,E. Fairview & Mercury,W. Walnut & Dresden,Greedy,True,53,52,15.642676137272366,168,0.3824139999721865
+21,Very Long,E. Fairview & Mercury,W. Walnut & Dresden,A*,True,53,52,15.54967368323123,211,0.4861599999799182
+22,Very Long,S. Broadway - Before Family Dollar,Peoples & Greenline,BFS,True,33,32,10.932686359131607,311,0.17521449998980643
+22,Very Long,S. Broadway - Before Family Dollar,Peoples & Greenline,UCS,True,33,32,10.932686359131607,325,0.32246349996967183
+22,Very Long,S. Broadway - Before Family Dollar,Peoples & Greenline,Greedy,True,38,37,17.661160971895324,77,0.17852600001333485
+22,Very Long,S. Broadway - Before Family Dollar,Peoples & Greenline,A*,True,33,32,10.932686359131607,147,0.34356449998540484
+23,Very Long,N. Roan - John Deere Lands,N. Roan & E. Chilhowie - N. Side School,BFS,True,13,12,14.454838260925827,40,0.02325100001598912
+23,Very Long,N. Roan - John Deere Lands,N. Roan & E. Chilhowie - N. Side School,UCS,True,13,12,14.454838260925827,31,0.02801599998747406
+23,Very Long,N. Roan - John Deere Lands,N. Roan & E. Chilhowie - N. Side School,Greedy,True,13,12,14.454838260925827,21,0.0539134999826274
+23,Very Long,N. Roan - John Deere Lands,N. Roan & E. Chilhowie - N. Side School,A*,True,13,12,14.454838260925827,16,0.04524799999217066
+24,Very Long,Buc Ridge Shelter,Princeton - Evergreen Nursery,BFS,True,48,47,15.838330758916914,244,0.14231549999976778
+24,Very Long,Buc Ridge Shelter,Princeton - Evergreen Nursery,UCS,True,48,47,15.838330758916914,214,0.2077725000049213
+24,Very Long,Buc Ridge Shelter,Princeton - Evergreen Nursery,Greedy,True,48,47,15.838330758916914,197,0.4436410000039359
+24,Very Long,Buc Ridge Shelter,Princeton - Evergreen Nursery,A*,True,48,47,15.838330758916914,97,0.21989649999909489
+25,Very Long,N. Roan - John Deere Lands,Broadway & St. Louis,BFS,True,26,25,20.073472848919607,240,0.13452300001404183
+25,Very Long,N. Roan - John Deere Lands,Broadway & St. Louis,UCS,True,26,25,20.073472848919607,260,0.25347199996872405
+25,Very Long,N. Roan - John Deere Lands,Broadway & St. Louis,Greedy,True,26,25,20.073472848919607,26,0.05805750001286469
+25,Very Long,N. Roan - John Deere Lands,Broadway & St. Louis,A*,True,26,25,20.073472848919607,114,0.26191799997832277

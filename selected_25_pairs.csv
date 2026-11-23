@@ -1,0 +1,26 @@
+pair_id,start_id,goal_id,start_name,goal_name,straight_distance_km,distance_group
+1,4c69fb7c-9a36-4b97-8eb3-2799b99813d1,31e490e5-fa36-4639-a1de-1e2bd3917ce8,E. Watauga & Welbourne,E. Unaka - Btwn 2 Churches,1.5354358311518954,Very Short
+2,c0398150-cd4e-434e-b68d-7345f7c90948,c6c1e390-4f7a-4718-81aa-e86f5348f19c,Bldg 178 - Stanton-Gerber Hall,Lamont & Winter,1.7040295501437064,Very Short
+3,9dcca800-9312-460e-a68f-08e8f7ca86f8,82ae6721-d89f-46e5-8f5b-c0243b2277f7,The Mall - Upper Level,John Exum & Greenway,1.7439287288160996,Very Short
+4,f28c9b2f-f77c-4374-81af-361ec14b9d0a,79ff6347-2c15-482c-8df7-14384ebeb545,W. Watauga - Univ Edge Apts,S. Boone & Lamont,0.3922442417880447,Very Short
+5,f35e682a-3e4d-4ce1-b991-fbf3f8e307c9,53390fa1-bdbc-468b-905f-b6482aa5656f,E. Maple & Grover,N. Boone & W. Unaka,1.4202843153803137,Very Short
+6,4c69fb7c-9a36-4b97-8eb3-2799b99813d1,13318955-6b28-4dc5-9d37-785587711b1c,E. Watauga & Welbourne,Broyles & Princeton,2.918894013641604,Short
+7,f0bd764f-03d7-46ff-9654-f4b5b18721b2,c84b29a7-3864-4e38-aa6c-d6fec1c803cb,W. Watauga - Univ Edge Apts,Briarcliff,2.5943291428921462,Short
+8,1e7bd71c-09c9-44bb-a8b8-186d98c58af0,4f8a509a-c796-4a55-aab3-431bd3b4cf0e,Timberlake & Bristol Hwy,E. Oakland - Morris Baker,2.4962658196980043,Short
+9,ca32eee2-cf6e-44d3-b75a-1533bc0e691b,ceb50fcf-9422-4ba0-867d-ea93c27d1609,S. Roan & E. Maple,Bldg 53 - Post Office,2.678884860547082,Short
+10,cf1a65ec-d643-4593-84bf-87106aee9879,4f8a509a-c796-4a55-aab3-431bd3b4cf0e,Bristol Hwy - Big Valley Park,E. Oakland - Morris Baker,2.5564849517755617,Short
+11,268ab980-b5a5-4c5f-896e-2ddc28abe911,130521da-88e9-4436-87d9-da89ca5eb714,E. Watauga & Elm - Blankenship Pharm,W. Mkt - Boys & Girls Club,3.565418375215187,Medium
+12,d5a39d50-747d-41bf-9ec4-079d4caea33a,d9a39a64-1d6d-47a0-a065-63335f610223,Garden & John Exum,E. Lakeview - St Mary's Church,3.95040622072806,Medium
+13,d4fc14dc-fc54-4882-9eb7-6c567717c908,82ae6721-d89f-46e5-8f5b-c0243b2277f7,Princeton & E. Oakland,John Exum & Greenway,3.8579353092938216,Medium
+14,380dc16e-cf02-43de-9bc5-b7e1560ef975,1cdd4063-8a22-4dfa-9c6c-226f7108f138,E. Maple & Alabama,Knob Crk & Morningside,3.5672609351211046,Medium
+15,47890d9a-2adc-4550-b130-b2f2811f5c4a,c73db78f-1f0e-46b3-a9cb-14d72acdd62e,KING SPRINGS - KINGSTON APTS,The Harbor Apartments,3.8348449505268865,Medium
+16,af28cbad-2255-4e42-9614-1c815c3122b2,b7986195-e448-44e6-b3ef-b43d0d12c0b9,E. Watauga & New,S. North & First,4.722423088798058,Long
+17,aa431376-2cae-4e33-a196-89098dc797bd,b570710d-9b40-4d6d-9a99-630b611f3485,W. Walnut & Alta Tree,Sundale & North Hills,4.776638601546962,Long
+18,4f8a509a-c796-4a55-aab3-431bd3b4cf0e,cf6e8a2e-7e90-4b91-b447-d4fc67fb477d,E. Oakland - Morris Baker,E. Maple & Afton,4.338589107600097,Long
+19,206f1f56-5404-45c2-883f-494ab3ac96bf,af5f7d66-844b-4d21-a102-3199a40ba62a,Broadway & St. Louis,Bldg 2 - College of Med,4.2230702194432395,Long
+20,cab5355e-f73a-4f03-8928-57042ad344fa,184c856a-5ac0-4c94-9851-ff2be08048a9,E. Oakland & Austin Springs,Bldg 7 - College of Pharmacy,5.564317011303347,Long
+21,6961b481-128c-4185-9084-1f4ba6cfd647,e3600cb8-df87-451a-801a-a901ca1dcc0f,E. Fairview & Mercury,W. Walnut & Dresden,6.998554094798394,Very Long
+22,fe1521fa-49d7-4f74-8015-99aeffdcaf2a,83384a49-1676-42d1-a5f8-18224112097c,S. Broadway - Before Family Dollar,Peoples & Greenline,6.568602182184898,Very Long
+23,7dfd08f2-64e9-4c85-a0c4-ad6ac3d406b8,c9ef8e84-b0cd-42e7-8a35-a68f14e5f4de,N. Roan - John Deere Lands,N. Roan & E. Chilhowie - N. Side School,7.564568270637107,Very Long
+24,7c7b82b2-e54e-4468-86c6-70bb88eaa6bd,e09c815c-9f66-43c5-8fc8-502f23c8c149,Buc Ridge Shelter,Princeton - Evergreen Nursery,6.346190140097486,Very Long
+25,7dfd08f2-64e9-4c85-a0c4-ad6ac3d406b8,206f1f56-5404-45c2-883f-494ab3ac96bf,N. Roan - John Deere Lands,Broadway & St. Louis,9.379322982423847,Very Long
